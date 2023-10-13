@@ -1,0 +1,49 @@
+.img{
+    border-radius: 25px;
+    width: 140px;
+    height: 200px;
+
+}
+
+body{
+background-image: url('https://png.pngtree.com/thumb_back/fh260/background/20230524/pngtree-an-illustration-of-a-city-on-a-neon-neon-lit-river-image_2608449.jpg');
+}
+
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+body{
+    background-image: -o-linear-gradient(rgba(0,0,0,0,75),rgba(0,0,0,0,75)), url(imagenes/pro.jpg);
+    width: 100%;
+    height: 100%;
+
+}
+
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 20px;
+    padding-left: 5%;
+    padding-right: 5%;
+    font-weight: bold;
+}
+
+h1{
+    color: white;(255, 255, 255);(255, 255, 255);
+    font-size: 45px;
+
+}
+
+ul li{
+    display: inline-block;
+    padding: 0px 20px;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
